@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# Maven
+target/
+dependency-reduced-pom.xml
+release.properties
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# H2 DB file if used (optional)
+*.mv.db
+
+# OS files
+.DS_Store
+Thumbs.db
